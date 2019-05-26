@@ -1,4 +1,4 @@
-﻿[
+{"courses":[
 	{
 		"Course Code": "CSE101.01",
 		"Course Title": "Introduction to Programming",
@@ -461,4 +461,4 @@
 		"Campus": "Sile",
 		"Exam": "NA/0"
 	}
-]
+]}
